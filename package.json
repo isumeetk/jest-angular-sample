@@ -40,7 +40,7 @@
     "jasmine-core": "~3.4.0",
     "jasmine-spec-reporter": "~4.2.1",
     "jest": "^24.9.0",
-    "ng-packagr": "^5.4.0",
+    "ng-packagr": "^10.1.1",
     "protractor": "~5.4.0",
     "scss-bundle": "^3.0.2",
     "ts-node": "~7.0.0",
